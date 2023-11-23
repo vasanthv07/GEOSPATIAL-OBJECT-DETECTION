@@ -1,2 +1,2 @@
-# ObjectDetection-DroneImages
+# ObjectDetection
 Object Detection in Aerial Images
