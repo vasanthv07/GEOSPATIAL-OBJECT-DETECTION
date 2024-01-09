@@ -26,6 +26,7 @@ Multi U-Net architecture has transformed aerial image object detection, pioneeri
 
 ### Semantic Annotation
 
+The dataset includes 72 images grouped into 8 larger tiles.
 The images are labeled and contain the following classes:
 
 | Name       | R   | G   | B   | Color                                                                                              |
