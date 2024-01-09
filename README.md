@@ -1,7 +1,7 @@
 # Geospatial Object Detection using Aerial Imagery
 
 <p>
-<a href="https://colab.research.google.com/drive/1whYgdDWQ3fcf8molrXSeAfqzeyh7x0wW">
+<a href="https://colab.research.google.com/drive/1whYgdDWQ3fcf8molrXSeAfqzeyh7x0wW#scrollTo=E8vL3FQbl1_5">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> </p>
 
